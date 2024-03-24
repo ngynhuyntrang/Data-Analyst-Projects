@@ -2,9 +2,9 @@
 __Note: the Power BI file is too large to be published, so click the link: < https://drive.google.com/file/d/1bMi1q_3kH3GGG2yphWNXQQHyeaOwa-5v/view?usp=share_link >_
 
 **_Content_**
-This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces.
-Olist connects small businesses from all over Brazil to channels without hassle and with a single contract.
-Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners.
+- This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces.
+- Olist connects small businesses from all over Brazil to channels without hassle and with a single contract.
+- Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners.
 
 _**Dataset**_
 - olist_customers_dataset
