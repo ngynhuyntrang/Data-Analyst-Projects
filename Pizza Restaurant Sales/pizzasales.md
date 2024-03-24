@@ -2,7 +2,7 @@
 https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
 
 ##Contents
-- This pizza sales dataset make up 12 relevant features:
+This pizza sales dataset make up 12 relevant features:
 + order_id: Unique identifier for each order placed by a table
 + order_details_id: Unique identifier for each pizza placed within each order (pizzas of the same type and size are kept in the same row, and the quantity increases)
 + pizza_id: Unique key identifier that ties the pizza ordered to its details, like size and price
