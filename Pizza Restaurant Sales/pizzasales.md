@@ -1,8 +1,8 @@
-#Data-Analyst-Project-Pizza-Sales
+**Data-Analyst-Project-Pizza-Sales**
 https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
 
-##Contents
-This pizza sales dataset make up 12 relevant features:
+**Contents**
+_This pizza sales dataset make up 12 relevant features:_
 + order_id: Unique identifier for each order placed by a table
 + order_details_id: Unique identifier for each pizza placed within each order (pizzas of the same type and size are kept in the same row, and the quantity increases)
 + pizza_id: Unique key identifier that ties the pizza ordered to its details, like size and price
@@ -16,6 +16,6 @@ This pizza sales dataset make up 12 relevant features:
 + pizza_ingredients: ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified; and they all + include Tomato Sauce, unless another sauce is specified)
 + pizza_name: Name of the pizza as shown in the menu
 
-##Objectives
+**Objectives**
 - Collecting transactional data for the past year, but really haven't been able to put it to good use.
 - Analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
